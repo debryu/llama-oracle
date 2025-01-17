@@ -5,4 +5,4 @@
 ## Check the processes
 ps aux | grep serve
 ## Kill the process using the PID
-kill <PID>
+kill "PID"
